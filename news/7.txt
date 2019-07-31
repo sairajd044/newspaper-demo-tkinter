@@ -1,0 +1,1 @@
+Six critical security iOS vulnerabilities, patched in the 12.4 update released earlier this month, were originally discovered by security researchers at Google. The flaws discovered were "interactionless" bugs which can be executed on a remote iOS device without requiring any direct interaction with it. One of the six vulnerabilities, however, has not yet been fully patched.
